@@ -15,7 +15,7 @@ body {
     flex-direction: column;
     height: 70%;
     width: 30%;
-    border: 10px solid black;
+    border: 5px solid gray;
 }
 
 .screen {
@@ -24,6 +24,8 @@ body {
     justify-content: end;
     align-items: end;
     font-size: 50px;
+    background-color: black;
+    color: lightgreen;
 }
 
 .buttons {
